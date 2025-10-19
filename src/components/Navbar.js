@@ -63,7 +63,7 @@ export default function Navbar() {
           ))}
           <li>
             <ResumeButton
-              href="https://drive.google.com/file/d/1FJRSxGSIQRiGG6GxOj6H4p7JL_9fwPM3/view?usp=sharing"
+              href="/resume.pdf"
               target="_blank"
               rel="noreferrer"
               onClick={closeMenu}
