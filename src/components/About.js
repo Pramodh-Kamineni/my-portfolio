@@ -20,7 +20,7 @@ export default function About() {
       <ContentWrapper>
         <div className="about-text">
           <p>
-            Hello! I'm Pramodh, a Full-Stack Software Engineer with 5+ years of experience in
+            Hello! I&apos;m Pramodh, a Full-Stack Software Engineer with 5+ years of experience in
             designing, developing, and deploying scalable enterprise applications across
             e-commerce, banking, and healthcare domains.
           </p>
@@ -30,7 +30,7 @@ export default function About() {
             performance, and long-term scalability. I enjoy working in collaborative Agile
             environments to deliver secure, stable, and efficient solutions.
           </p>
-          <p>Here are a few technologies I’ve been working with recently:</p>
+          <p>Here are a few technologies I&apos;ve been working with recently:</p>
           <SkillsList>
             {skills.map((skill, i) => (
               <li key={i}>{skill}</li>
@@ -187,4 +187,3 @@ const SkillsList = styled.ul`
     }
   }
 `;
-

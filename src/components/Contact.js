@@ -4,11 +4,11 @@ import styled from 'styled-components';
 export default function Contact() {
   return (
     <ContactSection id="contact">
-      <SectionHeading>What's Next?</SectionHeading>
+      <SectionHeading>What&apos;s Next?</SectionHeading>
       <Title>Get In Touch</Title>
       <Description>
-        I'm currently looking for new opportunities, my inbox is always open.
-        Whether you have any question or just want to say hi, I’ll get back to you!
+        I&apos;m currently looking for new opportunities, my inbox is always open.
+        Whether you have any question or just want to say hi, I&apos;ll get back to you!
       </Description>
       <EmailLink href="mailto:kamineni.jobs@gmail.com">Say Hello</EmailLink>
     </ContactSection>
