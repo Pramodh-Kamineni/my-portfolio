@@ -20,15 +20,21 @@ export default function About() {
       <ContentWrapper>
         <div className="about-text">
           <p>
-            Hello! I&apos;m Pramodh, a Full-Stack Software Engineer with 5+ years of experience in
-            designing, developing, and deploying scalable enterprise applications across
-            e-commerce, banking, and healthcare domains.
+            Hi! I&apos;m Pramodh, a Software Engineer with over 5 years of experience
+            building scalable, secure, and cloud-native systems for the web. I&apos;ve
+            worked across banking, e-commerce, and healthcare to deliver
+            high-performance enterprise applications.
           </p>
           <p>
-            I specialize in building cloud-native microservices and modern web applications. My
-            goal is to write clean, maintainable, and testable code that emphasizes quality,
-            performance, and long-term scalability. I enjoy working in collaborative Agile
-            environments to deliver secure, stable, and efficient solutions.
+            I specialize in microservices architecture and cloud platforms like Azure,
+            AWS, and GCP—using frameworks such as Spring Boot, React.js, and Node.js
+            to create modern, efficient solutions. I&apos;m passionate about writing
+            clean, reliable code and automating deployments with Docker, Kubernetes,
+            and Terraform.
+          </p>
+          <p>
+            Currently, I&apos;m designing cloud-native banking platforms at Bank of
+            America to deliver seamless and secure digital experiences.
           </p>
           <p>Here are a few technologies I&apos;ve been working with recently:</p>
           <SkillsList>
