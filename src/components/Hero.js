@@ -40,7 +40,7 @@ export default function Hero() {
       >
         I’m a <strong>Software Engineer</strong> with over 5 years of experience
         designing, developing, and deploying high-performance applications across
-        <strong>Banking</strong>, <strong>E-commerce</strong>, and <strong>Healthcare</strong>.
+        <strong> Banking</strong>, <strong>E-commerce</strong>, and <strong>Healthcare</strong>.
         I specialize in <strong>microservices architecture</strong> and modern web
         development with <strong>React</strong>, <strong>Node.js</strong>, <strong>Java</strong>, and <strong>Spring Boot</strong>,
         and automate deployments on <strong>Azure</strong>, <strong>AWS</strong>, and <strong>GCP</strong>.
