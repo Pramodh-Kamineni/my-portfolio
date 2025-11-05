@@ -29,7 +29,7 @@ export default function Hero() {
         animate={{ opacity: 1, y: 0 }}
         transition={{ delay: 0.4, duration: 0.6 }}
       >
-        I build scalable, intelligent systems for the web.
+        I build scalable, secure, and cloud-native systems for the web.
       </motion.h2>
 
       <motion.p
@@ -40,17 +40,17 @@ export default function Hero() {
       >
         I’m a <strong>Software Engineer</strong> with over 5 years of experience
         designing, developing, and deploying high-performance applications across
-        <strong> e-commerce, banking,</strong> and <strong>healthcare</strong> domains.
-        I specialize in <strong>microservices architecture</strong>, building modern web
-        applications with <strong>React, Node.js, Java,</strong> and <strong>Spring Boot</strong>,
-        and automating deployments on <strong>AWS</strong>. Currently, I’m focused on
-        engineering scalable platforms and seamless digital experiences at{' '}
-        <Highlight>Dell Technologies</Highlight>.
+        <strong> e-commerce</strong>, <strong>banking</strong>, and <strong>healthcare</strong>.
+        I specialize in <strong>microservices architecture</strong> and modern web
+        development with <strong>React</strong>, <strong>Node.js</strong>, <strong>Java</strong>, and <strong>Spring Boot</strong>,
+        and automate deployments on <strong>Azure</strong>, <strong>AWS</strong>, and <strong>GCP</strong>.
+        Currently, I’m focused on engineering scalable platforms and seamless digital experiences at{' '}
+        <Highlight>Bank of America</Highlight>.
       </motion.p>
 
       <ButtonWrapper>
         <MotionButton
-          href="mailto:pramodhk.jobs@gmail.com"
+          href="mailto:kamineni.jobs@gmail.com" // update if you prefer a different email
           whileHover={{ scale: 1.02 }}
           transition={{ duration: 0.2 }}
         >
